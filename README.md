@@ -1,6 +1,5 @@
-# lab01IETI
+# lab01IETI_Users
 
-## Micro User
 ### Create User
 ![createUser](./img/createUser.png)
 
